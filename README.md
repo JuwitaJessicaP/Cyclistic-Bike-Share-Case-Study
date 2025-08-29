@@ -58,6 +58,7 @@ Created new fields to support analysis:
 ## 3. Key Insights  
 
 ### 3.1 Trips by Month (Seasonality)  
+![Trips by Month](Trips_by_month.png)
 - Casual riders peaked in **July 2021 (~450K rides)** vs. **members (~380K)**.  
 - In **August**, casual riders remained high (~420K) vs. **members (~390K)**.  
 - By **December**, casual rides dropped to ~70K, while members stayed steady with **150K+ rides/month**.  
@@ -67,6 +68,7 @@ Created new fields to support analysis:
 ---
 
 ### 3.2 Rideable Type Usage  
+![Rideable_Type Usage](Rideable_Type.png)
 - **Classic bikes:** 58.1% of rides  
 - **Electric bikes:** 36.3% of rides  
 - **Docked bikes:** 5.6% of rides  
@@ -79,6 +81,8 @@ Created new fields to support analysis:
 ---
 
 ### 3.3 Station Popularity (Start & End)  
+![Start Stations](Start_Stations.png)
+![End Stations](End_Stations.png)
 - **Most popular stations (casuals):** Streeter Dr & Grand Ave, Millennium Park, Michigan Ave & Oak St.  
 - **Casual riders:** Concentrated in tourist hotspots, often round-trips at same station.  
 - **Members:** Wider distribution, aligned with commuting and point-to-point travel.  
